@@ -1,0 +1,22 @@
+{
+  "name": "hungryhelper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cameron Lees",
+  "license": "ISC",
+  "dependencies": {
+    "@google/maps": "^0.5.5",
+    "chalk": "^2.4.1",
+    "figlet": "^1.2.0",
+    "google-distance": "^1.0.1",
+    "input-promptify": "^1.1.5",
+    "node-geocoder": "^3.22.0",
+    "opencage-api-client": "^0.2.0",
+    "prompt": "^1.0.0",
+    "terminal-link": "^1.1.0"
+  }
+}
